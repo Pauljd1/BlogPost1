@@ -1,0 +1,81 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: "Figtree", sans-serif;
+    height: 100%;
+    margin: 0;
+    background-color: hsl(47, 88%, 63%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 10px;
+}
+
+.box-model {
+    background-color: white;
+    width: 420px;
+    height: 500px;
+    border: 2px solid black;
+    padding: 35px;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 5px black;
+}
+
+.main-image {
+    display: block;
+    margin: 0 auto; 
+    border-radius: 10px;
+    width: 100%; 
+}
+
+.btn {
+    padding: 5px;
+    margin-top: 15px;
+    background-color: hsl(47, 88%, 63%);
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 3px;
+    border: none; 
+    cursor: pointer; 
+}
+
+.btn:hover {
+  background-color: gold;
+}
+.date {
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+    
+    
+}
+
+.heading {
+    font-size: 20px;
+}
+
+.main-paragraph {
+    font-weight: lighter;
+    opacity: 0.7;
+}
+
+.bottom-section {
+    display: flex;
+    align-items: center; 
+    
+    
+}
+
+.avatar-image {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%; 
+}
+
+strong {
+    padding-left: 10px;
+}
