@@ -54,4 +54,4 @@ W3S and Stackoverflow.
 
 ## Acknowledgments
 
-I would just like to thank Scrimba for the amazing front end course they provide. Very hands on, building projects and of course Frontend mentor.
+I would just like to thank Scrimba for the amazing front end course they provide. Very hands on, building projects and of course Frontend mentor.# BlogPost1
